@@ -1,0 +1,14 @@
+{
+  "name": "slack-doorbellbot",
+  "version": "0.0.1",
+  "description": "Bot that says who opens the door",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Maikol",
+  "license": "ISC",
+  "dependencies": {
+    "slack-client": "^1.4.1"
+  }
+}
