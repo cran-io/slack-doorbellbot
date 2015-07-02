@@ -1,6 +1,6 @@
 var Slack = require('slack-client');
 
-var token = process.env.SALCK_TOKEN;
+var token = process.env.SLACK_TOKEN;
 
 var slack = new Slack(token, true, true);
 
